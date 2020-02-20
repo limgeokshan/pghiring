@@ -18,6 +18,8 @@ Development Server runs on port 3000
 
 ## Accessing hosted endpoints
 http://18.141.141.84/api/:endpoints
+
+
 P/S: Please change endpoints according to below API guidelines
 
 

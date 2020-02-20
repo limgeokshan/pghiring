@@ -2,6 +2,8 @@
 Repository for pgHiring technical assessment
 
 ## setting up in localhost
+
+
 **To setup and load data into database in local environment**
 run `pghiring.sql` script in mysqlserver
 
@@ -18,7 +20,8 @@ Development Server runs on port 3000
 http://18.141.141.84/api/:endpoints
 P/S: Please change endpoints according to below API guidelines
 
-**API
+
+## API
 
 POST `/api/register`
 : Register one or more students to a specified teacher
